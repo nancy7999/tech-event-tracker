@@ -25,17 +25,26 @@ Easily track **free & paid events**, check event locations, and visualize analyt
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot  
 
-> _(Add screenshots of your app once you run it and take snapshots)_  
+![Tech Event Tracker Screenshot](assets.png)
 
-| Home Page | Analytics |
-|-----------|-----------|
-| ![Home](screenshots/home.png) | ![Analytics](screenshots/analytics.png) |
+>
 
----
+## ⚙️ Installation
 
+Clone the repo and set up the environment:
 
+```bash
+# Clone repo
+git clone https://github.com/your-username/tech-event-tracker.git
+cd tech-event-tracker
+
+# Create virtual environment
+python -m venv venv
+
+# Activate (Windows)
+venv\Scripts\activate
 
 
 
