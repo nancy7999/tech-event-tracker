@@ -1,0 +1,41 @@
+event_name,date,location,type,category,price,link
+PyCon India 2025,2025-09-12,Bengaluru,Conference,Python,Paid,https://in.pycon.org/
+Bengaluru Tech Summit 2025,2025-11-18,Bengaluru,Summit,GovTech,Paid,https://www.bengalurutechsummit.com/
+AI Developers Meetup,2025-09-20,Bengaluru,Meetup,AI/ML,Free,https://www.eventbrite.com/d/india--bangalore/technology/
+Cloud & DevOps Workshop,2025-09-25,Bengaluru,Workshop,Cloud,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+Web Developers Summit,2025-10-02,Bengaluru,Conference,Web,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+GenAI Hackathon,2025-10-10,Bengaluru,Hackathon,AI/ML,Free,https://www.eventbrite.com/d/india--bangalore/technology/
+Startup Pitch Night,2025-10-18,Bengaluru,Meetup,Startups,Free,https://www.eventbrite.com/d/india--bangalore/technology/
+Data Engineering Workshop,2025-10-22,Bengaluru,Workshop,Data,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+Full-Stack Dev Con,2025-10-30,Bengaluru,Conference,Web,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+Mobile Dev Bootcamp,2025-11-05,Bengaluru,Bootcamp,Mobile,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+Cloud Native Summit India,2026-01-05,Bengaluru,Conference,Cloud,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+AI for Finance Workshop,2025-11-20,Bengaluru,Workshop,AI/Finance,Paid,https://www.eventbrite.com/d/india--bangalore/technology/
+Hyderabad Tech Expo,2025-10-01,Hyderabad,Exhibition,Tech,Free,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+Bharat Technology Conclave,2025-10-12,Hyderabad,Conference,Enterprise,Paid,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+AI & Robotics Workshop,2025-10-20,Hyderabad,Workshop,AI/Robotics,Paid,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+Security & Privacy Forum,2025-11-02,Hyderabad,Conference,Security,Paid,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+Blockchain Hackathon,2025-11-15,Hyderabad,Hackathon,Blockchain,Free,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+Data Science Bootcamp Hyderabad,2025-11-22,Hyderabad,Bootcamp,Data,Paid,https://www.eventbrite.com/d/india--hyderabad/tech-events/
+India Tech Summit (New Delhi),2025-12-16,New Delhi,Summit,Tech Policy,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+AI Ethics & Policy,2025-12-01,New Delhi,Seminar,AI/Policy,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+GovTech India Forum,2025-12-08,New Delhi,Conference,GovTech,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+Startup Demo Day Delhi,2025-12-20,New Delhi,Competition,Startups,Free,https://www.eventbrite.com/d/india--new-delhi/technology/
+ML & NLP Workshop Delhi,2026-01-10,New Delhi,Workshop,AI/NLP,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+FinTech India Conference,2026-01-18,New Delhi,Conference,FinTech,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+Cloud Security Meetup Delhi,2026-01-25,New Delhi,Meetup,Security,Free,https://www.eventbrite.com/d/india--new-delhi/technology/
+Developer Tools Conclave,2026-02-05,New Delhi,Conference,Developer Tools,Paid,https://www.eventbrite.com/d/india--new-delhi/technology/
+TechFest IIT Bombay,2025-12-17,Mumbai,Festival,General Tech,Free,https://techfest.org/
+Mumbai Cloud & DevOps,2025-11-10,Mumbai,Conference,Cloud,Paid,https://www.eventbrite.com/d/india--mumbai/tech/
+Digital Marketing Tech Summit,2025-11-25,Mumbai,Conference,Marketing/Tech,Paid,https://www.eventbrite.com/d/india--mumbai/tech/
+Gaming Dev Mumbai,2025-12-05,Mumbai,Conference,Gaming,Paid,https://www.eventbrite.com/d/india--mumbai/tech/
+AI in Media Workshop Mumbai,2026-01-12,Mumbai,Workshop,AI/Media,Paid,https://www.eventbrite.com/d/india--mumbai/tech/
+Startup Pitch Mumbai,2026-01-28,Mumbai,Competition,Startups,Free,https://www.eventbrite.com/d/india--mumbai/tech/
+Pune Data Science Week,2025-11-22,Pune,Conference,Data,Paid,https://www.eventbrite.com/d/india--pune/tech/
+IoT & Embedded Systems Pune,2025-12-02,Pune,Exhibition,IoT,Paid,https://www.eventbrite.com/d/india--pune/tech/
+Pune DevOps Meetup,2026-01-15,Pune,Meetup,DevOps,Free,https://www.eventbrite.com/d/india--pune/tech/
+EdTech Symposium Pune,2026-01-22,Pune,Seminar,EdTech,Paid,https://www.eventbrite.com/d/india--pune/tech/
+Chennai Mobile Dev Summit,2025-12-10,Chennai,Conference,Mobile,Free,https://www.eventbrite.com/d/india--chennai/technology-events/
+Chennai Robotics Expo,2025-12-18,Chennai,Exhibition,Robotics,Paid,https://www.eventbrite.com/d/india--chennai/technology-events/
+AI Ethics Chennai Meetup,2026-01-08,Chennai,Meetup,AI Ethics,Free,https://www.eventbrite.com/d/india--chennai/technology-events/
+Chennai Cloud Workshop,2026-01-20,Chennai,Workshop,Cloud,Paid,https://www.eventbrite.com/d/india--chennai/technology-events/
