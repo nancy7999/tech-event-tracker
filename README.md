@@ -31,22 +31,3 @@ Easily track **free & paid events**, check event locations, and visualize analyt
 
 >
 
-## ⚙️ Installation
-
-Clone the repo and set up the environment:
-
-```bash
-# Clone repo
-git clone https://github.com/your-username/tech-event-tracker.git
-cd tech-event-tracker
-
-# Create virtual environment
-python -m venv venv
-
-# Activate (Windows)
-venv\Scripts\activate
-
-
-
-# Install requirements
-pip install -r requirements.txt
